@@ -1,5 +1,7 @@
 # AngularJS Phone Catalog Tutorial Application
 
+I HAVE COMPLETED THIS TUTORIAL FROM THE WEBSITE
+https://docs.angularjs.org/tutorial/
 
 ## Overview
 
